@@ -1,5 +1,7 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/saadat-abu/saadat-abu.r-universe.dev
 	branch = HEAD
+[submodule "GIMP"]
+	path = GIMP
+	url = https://github.com/SAADAT-Abu/GIMP
