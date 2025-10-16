@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/saadat-abu/saadat-abu.r-universe.dev
 	branch = HEAD
+[submodule "Capsule"]
+	path = Capsule
+	url = https://github.com/SAADAT-Abu/Capsule
 [submodule "GIMP"]
 	path = GIMP
 	url = https://github.com/SAADAT-Abu/GIMP
